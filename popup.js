@@ -7,7 +7,8 @@ document.addEventListener('DOMContentLoaded', function() {
   const aiMeterElement = document.getElementById('ai-meter');
   const additionalInfoElement = document.getElementById('additional-info');
 
-  const API_KEY = "19f33c8c-39a3-47bf-8ffd-9b59219bf06c";
+  // Add your api key from GPTZero below!
+  const API_KEY = "YOUR_API_KEY_GOES_HERE";
 
   // Function to get selected text with retry
   function getSelectedText(retryCount = 0) {
