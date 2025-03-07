@@ -1,6 +1,6 @@
 # AI Detective Chrome Extension 🔍
 
-A Chrome extension that detects whether text on any webpage was written by AI or humans. Perfect for content creators, educators, and anyone interested in identifying AI-generated content.
+Detect whether text on any webpage was written by AI or humans. Perfect for content creators, educators, and anyone interested in identifying AI-generated content.
 
 ## Features ✨
 
