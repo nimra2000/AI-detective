@@ -11,10 +11,11 @@ A Chrome extension that detects whether text on any webpage was written by AI or
 ## Installation 🚀
 
 1. Download or clone this repository
-2. Open Chrome and go to `chrome://extensions/`
-3. Enable "Developer mode" in the top-right corner
-4. Click "Load unpacked" and select the extension directory
-5. The AI Detective icon should appear in your Chrome toolbar
+2. Obtain an [API Key from GPTZero](https://www.zerogpt.com/pricing#api). Modify the variable `const API_KEY` in `popup.js` with your key.
+3. Open Chrome and go to `chrome://extensions/`
+4. Enable "Developer mode" in the top-right corner
+5. Click "Load unpacked" and select the extension directory
+6. The AI Detective icon should appear in your Chrome toolbar
 
 ## Usage Guide 📖
 
