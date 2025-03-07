@@ -1,1 +1,0 @@
-There should be 3 image files of different sizes representing the icon for this chrome extension. 
